@@ -1,2 +1,2 @@
-﻿# Weather-React-app
+﻿# Forcastify
  
